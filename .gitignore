@@ -2,3 +2,4 @@ uploads/
 uploads/*
 venv4team/
 db.sqilite3
+*.pyc
